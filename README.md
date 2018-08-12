@@ -7,7 +7,7 @@
 #### Step-2 -) Open the whole project in any code editor(i prefer Brackets), and then choose live preview.
    ####   if the index.html file is open directly then some function may not work, due to static website.
    
-   ### you can also visit this website using line provided below.
-       #### https://mobile-data.000webhostapp.com/ 
+   ### you can also visit this website using the link provided below.
+    ### https://mobile-data.000webhostapp.com/ 
 
 
